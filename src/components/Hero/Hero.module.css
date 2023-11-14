@@ -17,6 +17,7 @@
     align-items: flex-start;
     color: var(--color-text);
     z-index: 1;
+    width: 500px;
 }
 
 .title {
@@ -46,6 +47,21 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.circle {
+    background-color: aliceblue;
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
 }
 
 .heroImg {

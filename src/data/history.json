@@ -1,29 +1,29 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Frontend developer(Intern - Strong junior)",
+    "organisation": "EPC Network",
+    "startDate": "2021",
+    "endDate": "2022",
+    "experiences": ["Worked on Internal Software", "Created software for email marketers improved performance by 50 percent"],
+    "imageSrc": "history/epcNetwork.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Full-stack student",
+    "organisation": "GoIt",
+    "startDate": "2021",
+    "endDate": "2023",
+    "experiences": ["Learning JS,TS,Node.js,HTML,CSS", "Created multiple pet projects with students"],
+    "imageSrc": "history/GoIt.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Freelancer",
+    "organisation": "UpWork",
+    "startDate": "2022",
+    "endDate": "2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Creating landing pages for customers",
+      "Optimizing websites and finding solutions for clients"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/UpWork.png"
   }
 ]

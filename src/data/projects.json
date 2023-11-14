@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Goose Project",
+    "imageSrc": "projects/GooseProject.png",
+    "description": "GooseProject is a purpose-built website focused on helping users effectively manage their schedules",
+    "skills": ["React", "Express", "Node.js","Redux"],
+    "demo": "https://elenaods.github.io/goose_track/",
+    "source": "https://github.com/ElenaOds/goose_track"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Filmoteka(role : Team Lead)",
+    "imageSrc": "projects/filmoteka.png",
+    "description": "A website designed to help users choose a movie to watch.",
+    "skills": ["React","JS","HTML", "Sass"],
+    "demo": "https://nirqqen97.github.io/Filmoteka-Project/",
+    "source": "https://github.com/nirqqen97/Filmoteka-Project"
   },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+{
+    "title": "Ninja Project",
+    "imageSrc": "projects/icecream.png",
+    "description": "A website for an ice cream company. This was a team project where I served as the Frontend-developer.",
+    "skills": ["React","JS","HTML", "Sass"],
+    "demo": "https://oleksii-kukharuk.github.io/ninjas-project/",
+    "source": "https://github.com/Oleksii-Kukharuk/ninjas-project"
   }
 ]
