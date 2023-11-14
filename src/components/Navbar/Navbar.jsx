@@ -1,12 +1,14 @@
 import React, { useState } from "react";
+
 import styles from "./Navbar.module.css";
 import { getImageUrl } from "../../utils";
+
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <nav className={styles.navbar}>
-      <a href="/" className={styles.title}>
+      <a className={styles.title} href="/">
         Portfolio
       </a>
       <div className={styles.menu}>
@@ -32,7 +34,7 @@ export const Navbar = () => {
           </li>
           <li>
             <a href="#projects">Projects</a>
-          </li>{" "}
+          </li>
           <li>
             <a href="#contact">Contact</a>
           </li>
