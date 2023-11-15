@@ -12,6 +12,7 @@
 }
 
 .content {
+    width: 800px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -107,6 +108,7 @@
 
     .content {
         align-items: center;
+        width: auto;
     }
 }
 
@@ -118,7 +120,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
